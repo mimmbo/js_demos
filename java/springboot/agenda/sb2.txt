@@ -1,5 +1,0 @@
-hibernate validation + error handling
-dto
-json view
-services & utils
-

@@ -1,4 +1,0 @@
-route
-switch
-exact
-props history

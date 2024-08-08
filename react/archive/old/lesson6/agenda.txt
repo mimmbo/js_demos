@@ -1,6 +1,0 @@
-nested route
-exact + nestaed route
-match url
-match params
-state
-onclick push
